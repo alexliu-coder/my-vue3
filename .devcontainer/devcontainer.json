@@ -10,7 +10,8 @@
         "Vue.vscode-typescript-vue-plugin",
         "Vue.volar",
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens"
       ]
     }
   }
